@@ -1,0 +1,17 @@
+linux basic commands:- 
+                     ls-->to list the no of files
+                     ls-a -->list all files
+                     pwd -->presnt working dir.
+                     create a file--> touch <file name>
+                     vi<file name>--> to edit the files
+                     to terminal opens --> insert button -->script-->press esc-->:wq to save an exit
+
+##### git commands 
+git add -->file to move to staging
+git commit --> to local
+git status-->to check the status
+
+##untracked-->file is in workikng dir
+##woking dir is clean-->file is in local 
+##to be commited-->file is in staging
+
